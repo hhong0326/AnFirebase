@@ -24,6 +24,8 @@ public class LoginActivity extends AppCompatActivity {
     TextView text2;
     TextView text3;
 
+    TextView text4;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
