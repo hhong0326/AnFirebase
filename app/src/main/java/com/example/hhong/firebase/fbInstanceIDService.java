@@ -13,6 +13,7 @@ import com.google.firebase.iid.FirebaseInstanceIdService;
 public class fbInstanceIDService extends FirebaseInstanceIdService{
     private static final String TAG = "MyFirebaseIIDService";
     String msg = "";
+    String asd = "asdasdasd";
     @Override
     public void onTokenRefresh() {
         // Get updated InstanceID token.
